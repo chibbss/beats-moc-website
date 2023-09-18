@@ -1,5 +1,5 @@
 # beats-moc-website
-The Beats Moc Website is a platform for music lovers to explore and enjoy a curated selection of beats across various genres.
+This project is a simple landing page designed to showcase my own version of a Beats by Dre website. It features a clean and modern design to highlight the brand and its products.
 
 ![Beats by Dre Landing Page](/beats/img/preview.png)
 
